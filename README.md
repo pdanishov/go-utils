@@ -1,0 +1,1 @@
+Collection of Go functions for personal needs.
